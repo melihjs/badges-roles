@@ -1,0 +1,12 @@
+{
+  "name": "badgesroles",
+  "version": "1.0.0",
+  "description": "badges roles",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  }
+}
